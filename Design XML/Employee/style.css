@@ -1,0 +1,62 @@
+/* Style the entire document */
+employees {
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+}
+
+/* Style employee elements */
+employee {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Style name element */
+name {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style phones element */
+phones {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Style phone elements */
+phone {
+    display: inline-block;
+    margin-right: 10px;
+    color: #666;
+}
+
+/* Style addresses element */
+addresses {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Style address element */
+address {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Style street element */
+street {
+    font-style: italic;
+    color: #999;
+}
+
+/* Style email element */
+email {
+    display: block;
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+}

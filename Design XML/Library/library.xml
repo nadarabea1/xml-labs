@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<library>
+    <location>City Library</location>
+    <description>A public library serving the community with a wide range of books.</description>
+    <librarian>John Smith</librarian>
+    <books>
+        <book>
+            <title>Book Title 1</title>
+            <isbn>978-1-234567-89-0</isbn>
+            <author>Author Name 1</author>
+            <preface>
+                This is the preface of the book.
+            </preface>
+            <parts>
+                <part>
+                    <title>Part Title 1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter Title 1</title>
+                            <summary>A summary of the chapter.</summary>
+                            <sections>
+                                <section>
+                                    <content>This is section 1 content.</content>
+                                </section>
+                                <section>
+                                    <content>This is section 2 content.</content>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <chapter>
+                            <title>Chapter Title 2</title>
+                            <summary>Another summary of the chapter.</summary>
+                            <sections>
+                                <section>
+                                    <content>This is section 1 content.</content>
+                                </section>
+                                <section>
+                                    <content>This is section 2 content.</content>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>Book Title 2</title>
+            <isbn>978-1-234567-90-1</isbn>
+            <author>Author Name 2</author>
+            <preface>
+                This is the preface of the second book.
+            </preface>
+            <parts>
+                <part>
+                    <title>Part Title 1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter Title 1</title>
+                            <summary>A summary of the chapter.</summary>
+                            <sections>
+                                <section>
+                                    <content>This is section 1 content.</content>
+                                </section>
+                                <section>
+                                    <content>This is section 2 content.</content>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>
