@@ -1,4 +1,3 @@
-/* Style the entire document */
 employees {
     display: block;
     margin: 20px;
@@ -7,7 +6,6 @@ employees {
     font-family: Arial, sans-serif;
 }
 
-/* Style employee elements */
 employee {
     display: block;
     margin-bottom: 20px;
@@ -15,13 +13,11 @@ employee {
     border-bottom: 1px solid #ccc;
 }
 
-/* Style name element */
 name {
     font-weight: bold;
     color: #333;
 }
 
-/* Style phones element */
 phones {
     display: block;
     margin-top: 10px;
@@ -41,19 +37,16 @@ addresses {
     margin-top: 10px;
 }
 
-/* Style address element */
 address {
     display: block;
     margin-bottom: 10px;
 }
 
-/* Style street element */
 street {
     font-style: italic;
     color: #999;
 }
 
-/* Style email element */
 email {
     display: block;
     margin-top: 10px;
