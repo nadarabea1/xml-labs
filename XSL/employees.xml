@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+    <employee>
+        <name>Alice Brown</name>
+        <phones>
+            <phone type="home">111-222-3333</phone>
+            <phone type="work">444-555-6666</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>First Avenue</street>
+                <buildingnumber>101</buildingnumber>
+                <region>West</region>
+                <city>City</city>
+                <country>Country</country>
+            </address>
+        </addresses>
+        <email>alice.brown@example.com</email>
+    </employee>
+    <employee>
+        <name>Bob Green</name>
+        <phones>
+            <phone type="mobile">777-888-9999</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>Second Avenue</street>
+                <buildingnumber>202</buildingnumber>
+                <region>South</region>
+                <city>City</city>
+                <country>Country</country>
+            </address>
+            <address>
+                <street>Third Avenue</street>
+                <buildingnumber>303</buildingnumber>
+                <region>East</region>
+                <city>City</city>
+                <country>Country</country>
+            </address>
+        </addresses>
+        <email>bob.green@example.com</email>
+    </employee>
+</employees>
