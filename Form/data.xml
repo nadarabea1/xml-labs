@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
-    <person>
-        <name>John Doe</name>
-        <phone>1234567890</phone>
-        <location>New York</location>
-        <email>john.doe@example.com</email>
-    </person>
 </data>
